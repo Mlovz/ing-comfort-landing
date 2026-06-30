@@ -22,10 +22,10 @@ import {
   X,
 } from "lucide-react";
 
-const PHONE = "+7 928 917-71-72";
-const PHONE_LINK = "tel:+79289177172";
+const PHONE = "+7 928 917-71-71";
+const PHONE_LINK = "tel:+79289177171";
 const WHATSAPP_LINK =
-  "https://wa.me/79289177172?text=Здравствуйте!%20Хочу%20рассчитать%20стоимость%20установки%20кондиционера.";
+  "https://wa.me/79289177171?text=Здравствуйте!%20Хочу%20рассчитать%20стоимость%20установки%20кондиционера.";
 
 const navItems = [
   { label: "Услуги", href: "#services" },
